@@ -12,10 +12,10 @@ type: 'Task'
 
 _Add what type of issue this is:_
 
-- update
-- add
-- create
-- fix
+- [ ] update
+- [ ] add
+- [ ] create
+- [ ] fix
 
 ## Content
 
