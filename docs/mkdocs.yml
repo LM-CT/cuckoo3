@@ -75,6 +75,7 @@ nav:
 - Creating:
   - Virtual machines: creating/vms.md
   - Machinery modules: creating/machinery.md
+  - Systemd Units: creating/systemd.md
 
 - Using:
   - CLI API: using/cli-api.md
